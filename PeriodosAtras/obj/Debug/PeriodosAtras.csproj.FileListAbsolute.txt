@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\PeriodosAtras.Cs\PeriodosAtras\bin\Debug\PeriodosAtras.exe.config
+C:\Users\pedro\source\repos\PeriodosAtras.Cs\PeriodosAtras\bin\Debug\PeriodosAtras.exe
+C:\Users\pedro\source\repos\PeriodosAtras.Cs\PeriodosAtras\bin\Debug\PeriodosAtras.pdb
+C:\Users\pedro\source\repos\PeriodosAtras.Cs\PeriodosAtras\obj\Debug\PeriodosAtras.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\PeriodosAtras.Cs\PeriodosAtras\obj\Debug\PeriodosAtras.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\PeriodosAtras.Cs\PeriodosAtras\obj\Debug\PeriodosAtras.exe
+C:\Users\pedro\source\repos\PeriodosAtras.Cs\PeriodosAtras\obj\Debug\PeriodosAtras.pdb
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\PeriodosAtras.Cs\PeriodosAtras\bin\Debug\PeriodosAtras.exe.config
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\PeriodosAtras.Cs\PeriodosAtras\bin\Debug\PeriodosAtras.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\PeriodosAtras.Cs\PeriodosAtras\bin\Debug\PeriodosAtras.pdb
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\PeriodosAtras.Cs\PeriodosAtras\obj\Debug\PeriodosAtras.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\PeriodosAtras.Cs\PeriodosAtras\obj\Debug\PeriodosAtras.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\PeriodosAtras.Cs\PeriodosAtras\obj\Debug\PeriodosAtras.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\PeriodosAtras.Cs\PeriodosAtras\obj\Debug\PeriodosAtras.pdb
